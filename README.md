@@ -28,9 +28,11 @@ This is a modular Django eCommerce boilerplate project built to help get started
     python manage.py runserver
     ```
 
-Access the project at http://127.0.0.1:8000/.
+Access the project at `http://127.0.0.1:8000/`.
 
 ## Suggestions for Extensions
 - Add internationalization support with Django's `gettext` and `i18n`.
 - Integrate caching using Redis.
 - Customize the admin panel with `django-grappelli` or `django-jet` or a custom built admin with Bootstrap or React.
+
+Happy Coding, you Djangonaut!
